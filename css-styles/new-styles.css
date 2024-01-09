@@ -188,6 +188,9 @@ strong {
   text-align: center;
   padding-top: 0.5rem;
 }
+.my-card li {
+  color: #ede0d4;
+}
 
 /* Boxes */
 .box {
